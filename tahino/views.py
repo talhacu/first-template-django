@@ -1,0 +1,7 @@
+from django.shortcuts import render
+from django.http import HttpResponse
+from django.urls import reverse
+
+
+def tahinohi(request):
+    return HttpResponse("TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO TAHHİNOOO ")
